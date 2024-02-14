@@ -1,3 +1,5 @@
+![Cor](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/assets/dio.jpeg?raw=true)
+
 ## Analise de imagens no Vision Studio
 
 ### É uma ferramenta capaz de compreender o conteúdo e o contexto da imagem e extrair informações nela contidas através de experiências de teste integradas ao Vision Studio. 
@@ -7,7 +9,7 @@
 1. Entre com sua conta microsoft a partir do portal https://portal.azure.com
 2. Clique no botão da barra ao lado criar um recurso. Faça uma pesquisa através da barra de endereço, escrevendo "serviços de IA do Azure". Após feita a pesquisa, em cima do mesmo nome, clique em criar. Preencha o formulário com os seguintes dados: 
 
-[Figura 3 - Campo de identificação]
+![o](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/assets/Figura%202%20-%20Formul%C3%A1rio.jpg?raw=true)
  
 * Assinatura: sua assinatura
 * Grupo de recursos: Selecione ou crie um grupo de recursos com um nome exclusivo
