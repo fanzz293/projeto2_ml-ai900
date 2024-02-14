@@ -43,13 +43,17 @@ Em seguida, feche a aba.
 9. Aperte no botão de checkbox, aceitando o termo de reconhecimento sobre essa demonstração (para mais detalhes leia todo o termo).
 Podes selecionar qualquer uma das imagens para fazer análises e verificar os dados de detecção facial retornados.
 
-10. Serão utilizadas as foto da própria Azure para experimento. [Clique aqui para baixar o arquivo compactado.](https://aka.ms/mslearn-images-for-analysis/)  Abra a pasta em seu computador e localize o arquivo chamado store-camera-1.
+10.  Nesse exercício será utilizada uma das imagens da própria Azure para experimento. [Clique aqui para baixar o arquivo compactado.](https://aka.ms/mslearn-images-for-analysis/). Você pode também utilizar outros arquivos de sua preferência.
 
-11. Carregue a imagem store-camera-1.jpg arrastando-a para a caixa Arrastar e soltar arquivos aqui ou navegando até ela em seu sistema de arquivos.
+A imagem a ser utilizada será essa: 
+
+![o](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/inputs/analysis/store-camera-1.jpg?raw=true)
+
+11. Carregue a imagem arrastando-a para a caixa "Arrastar e soltar arquivos aqui" ou navegando até ela em seu sistema de arquivos.
 
 Observe o texto da legenda gerado, a saída será a seguinte:
 
-*Uma mulher e uma menina em uma mercearia*
+![o](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/outputs/outputAnalizeImages.jpg?raw=true)
 
 #### A funcionalidade Legenda fornece uma única frase em linguagem natural que descreve o conteúdo da imagem.
 
