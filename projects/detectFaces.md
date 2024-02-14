@@ -197,7 +197,7 @@ O script utilizado para implementar a funcionalidade do programama está no form
 
 ```
 
-#### Pronto! O exercício foi exercício!
+#### Pronto! O exercício foi concluído!
 
 #### Obrigado pela atenção!
 
