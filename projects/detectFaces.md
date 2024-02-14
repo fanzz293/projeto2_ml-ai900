@@ -36,16 +36,18 @@ Em seguida, feche a aba.
 
 7. Abra no navegador o seguinte endereço: https://portal.vision.cognitive.azure.com
 8. Em sua página inicial, selecione a guia Face e, em seguida, selecione o bloco Detectar rostos em uma imagem
-Aperte no botão de checkbox, aceitando o termo de reconhecimento sobre essa demonstração (para mais detalhes leia todo o termo).
-9. Podes selecionar qualquer uma das imagens para fazer análises e verificar os dados de detecção facial retornados.
-10. Fazendo o download e utilizando os arquivos das próprias imagens dos servidores da Azure (disponível em https://aka.ms/mslearning-detect-faces).
+Clique no checkbox de "Experimente", aceitando o termo de reconhecimento sobre essa demonstração (para mais detalhes leia todo o termo).
+9. Você pode selecionar as imagens de suas preferência para fazer análises e verificar os dados de detecção facial retornados.
+10. Ou pode fazer o o download e utilizar os arquivos das próprias imagens dos Azure.  [Clique aqui para baixar.](https://aka.ms/mslearning-detect-faces).
+
+&nbsp;
 A imagem usada será essa:
 
-[Figura 1]
+![s](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/inputs/detectFaces/store-camera-1.jpg?raw=true)
 
 12. Fazendo o upload de cada um deles, podemos conferir seus respectivos retornos na tela de "atributos detectados", em que se retorna quantos rostos foram detectados e se as pessoas da foto estão utilizando máscara.
 
-#### Confira o resultado da demonstração:
+#### Conferindo o resultado da demonstração:
 
 ![s](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/outputs/outputdetectFace.jpg?raw=true)
 
@@ -184,7 +186,7 @@ A imagem usada será essa:
 
 ```
 
-#### É fundamental que apliquemos esse exercício, não apenas por ser um requisito a mais para se aprofundar mais sobre Inteligência artificial, mas também para sedimentar o conceito, que pode ser muito útil em nosso dia-dia no desenvolvimento de sistemas nesse contexto. 
+#### Nesse contexto de projeto, é fundamental que o apliquemos, não só por ser um requisito a mais para se aprofundar em Inteligência artificial, mas também para sedimentar os conceitos e ferramentas atrelados a ele, tornando a experiência bastante útil em nosso dia-dia no desenvolvimento de sistemas.
 
 **Referências:**
 
