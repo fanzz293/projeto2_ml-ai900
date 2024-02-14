@@ -1,3 +1,5 @@
+![Cor](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/assets/dio.jpeg?raw=true)
+
 ## Ler texto no Vision Studio
 
 ### Essa é uma funcionalidade capaz de, seguindo o conceito  da visão computacional, detectar textos em imagens através de uma técnica conhecida como reconhecimento óptico de caractereres (OCR). 
@@ -7,7 +9,7 @@
 1. Entre com sua conta microsoft a partir do portal https://portal.azure.com
 2. Clique no botão da barra ao lado criar um recurso. Faça uma pesquisa através da barra de endereço, escrevendo "serviços de IA do Azure". Após feita a pesquisa, em cima do mesmo nome, clique em criar. Preencha o formulário com os seguintes dados: 
 
-[Figura 3 - Campo de identificação]
+![o](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/assets/Figura%202%20-%20Formul%C3%A1rio.jpg?raw=true)
  
 * Assinatura: sua assinatura
 * Grupo de recursos: Selecione ou crie um grupo de recursos com um nome exclusivo
@@ -22,7 +24,7 @@ Selecione revisar + criar e depois criar e aguarde a conclusão da implantação
 
 4. Em outra guia no navergador, digite o endereço https://portal.vision.cognitive.azure.com.
 
-[Figura 4: Select a resource to work with]
+![s](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/assets/figura%204.jpg?raw=true)
 
 5. Com sua conta logada, clique em "view all resources". 
 Na página "selecione um recurso para trabalhar", procure pelo recurso criado.
@@ -38,11 +40,18 @@ Na página inicial Introdução ao Vision, selecione a aba Reconhecimento óptic
 
 2. Marcando a caixa vazia em "experiências", você está aceitando a política de uso de recursos "lendo e marcando a caixa.
 
-3. No portal, selecione "Procurar um arquivo" e se quiser, utilize imagens de seu interesse, desde que siga os critérios da lógica da funcionalidade como haver textos dentro de imagens, a partir de seu computador ou baixe o [pacote de imagens ocr-images.zip](https://aka.ms/mslearn-ocr-images/). A imagem utilizada será advert.jpg.
+3. No portal, selecione "Procurar um arquivo" e se quiser, utilize imagens de seu interesse, desde que siga os critérios da lógica da funcionalidade como haver textos dentro de imagens, a partir de seu computador ou baixe o [pacote de imagens ocr-images.zip](https://aka.ms/mslearn-ocr-images/).
+
+&nbsp;
+
+A imagem utilizada está logo abaixo: 
+
+![o](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/inputs/readText/advert.jpg?raw=true)
+
 
 4. Confira a saída no painel "Atributos detectados". Qualquer texto encontrado na imagem é organizado em uma estrutura hierárquica de regiões, linhas e palavras.
 
-[Figura 4.2]
+![o](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/outputs/advert.jpg?raw=true)
 
 #### Obrigado por visualizar
 
