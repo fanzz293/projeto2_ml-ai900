@@ -1,13 +1,15 @@
+![Cor](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/assets/dio.jpeg?raw=true)
+
 ## Detectar rostos no Vision Estudio
 
-### Permite explorar os recursos de detecção de rostos em uma imagem sem a necessidade de escrever nenhum código. 
+### Permite explorar os recursos de detecção de rostos em uma imagem sem a necessidade de escrever nenhum código.  
 
 ### Criando um recurso de serviços de IA do Azure
 
 1. Entre com sua conta microsoft a partir do portal https://portal.azure.com
 2. Clique no botão da barra ao lado criar um recurso. Faça uma pesquisa através da barra de endereço, escrevendo "serviços de IA do Azure". Após feita a pesquisa, em cima do mesmo nome, clique em criar. Preencha o formulário com os seguintes dados: 
 
-[Figura 3 - Campo de identificação]
+![o](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/assets/Figura%202%20-%20Formul%C3%A1rio.jpg?raw=true)
  
 * Assinatura: sua assinatura
 * Grupo de recursos: Selecione ou crie um grupo de recursos com um nome exclusivo
@@ -22,7 +24,7 @@ Selecione revisar + criar e depois criar e aguarde a conclusão da implantação
 
 4. Em outra guia no navergador, digite o endereço https://portal.vision.cognitive.azure.com.
 
-[Figura 4: Select a resource to work with]
+![s](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/assets/figura%204.jpg?raw=true)
 
 5. Com sua conta logada, clique em "view all resources". 
 Na página "selecione um recurso para trabalhar", procure pelo recurso criado.
@@ -30,41 +32,26 @@ Na página "selecione um recurso para trabalhar", procure pelo recurso criado.
 6. Selecione o recurso clicando no box e em seguida, no botão abaixo "selecionar como recurso padrão". 
 Em seguida, feche a aba. 
 
-### Detectando rostos no Visio Studio
+### Detectando rostos no Vision Studio
 
 7. Abra no navegador o seguinte endereço: https://portal.vision.cognitive.azure.com
 8. Em sua página inicial, selecione a guia Face e, em seguida, selecione o bloco Detectar rostos em uma imagem
 Aperte no botão de checkbox, aceitando o termo de reconhecimento sobre essa demonstração (para mais detalhes leia todo o termo).
 9. Podes selecionar qualquer uma das imagens para fazer análises e verificar os dados de detecção facial retornados.
-10. Fazendo o download e utilizando os arquivos das próprias imagens dos servidores da Azure (disponível em https://aka.ms/mslearning-detect-faces), temos três tipos de imagens diferentes:
+10. Fazendo o download e utilizando os arquivos das próprias imagens dos servidores da Azure (disponível em https://aka.ms/mslearning-detect-faces).
+A imagem usada será essa:
 
 [Figura 1]
 
-[Figura 2]
+12. Fazendo o upload de cada um deles, podemos conferir seus respectivos retornos na tela de "atributos detectados", em que se retorna quantos rostos foram detectados e se as pessoas da foto estão utilizando máscara.
 
-[Figura 3]
+#### Confira o resultado da demonstração:
 
-11. Fazendo o upload de cada um deles, podemos conferir seus respectivos retornos na tela de "atributos detectados", em que se retorna quantos rostos foram detectados e se as pessoas da foto estão utilizando máscara.
+![s](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/outputs/outputdetectFace.jpg?raw=true)
 
-Figura 1
+#### Pronto! O exercício foi concluído!
 
-Rosto #1
-Máscara facial: não 
-
-Figura 2
-
-Rosto #1
-Máscara facial: não 
-Rosto #2
-Máscara facial: não 
-Rosto #3
-Máscara facial: não 
-
-Figura 3 
-
-Nenhum rosto detectado
-
-O script utilizado para implementar a funcionalidade do programama está no formado JSON. Confira abaixo: 
+#### A critério de curiosidade, vamos conferir o script JSON utilizado para implementar a funcionalidade do programama. Confira abaixo: 
 
 ```
 [
@@ -197,9 +184,7 @@ O script utilizado para implementar a funcionalidade do programama está no form
 
 ```
 
-#### Pronto! O exercício foi concluído!
-
-#### Obrigado pela atenção!
+#### É fundamental que apliquemos esse exercício, não apenas por ser um requisito a mais para se aprofundar mais sobre Inteligência artificial, mas também para sedimentar o conceito, que pode ser muito útil em nosso dia-dia no desenvolvimento de sistemas nesse contexto. 
 
 **Referências:**
 
