@@ -6,6 +6,6 @@
 
 ### Tópicos desse projeto (clique para visualizar cada um dos projetos)
 
-[Detectar rostos no Vision studio](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/projects/detectFaces.md)
-[Ler e extrair textos de imagens no Vision studio](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/projects/readText.md)
-[Analisar imagens no Vision Studio](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/projects/analyzeImages.md)
+[Detectar rostos no Vision studio](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/projects/detectFaces.md/)
+[Ler e extrair textos de imagens no Vision studio](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/projects/readText.md/)
+[Analisar imagens no Vision Studio](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/projects/analyzeImages.md/)
