@@ -24,10 +24,10 @@ Selecione revisar + criar e depois criar e aguarde a conclusão da implantação
 
 4. Em outra guia no navergador, digite o endereço https://portal.vision.cognitive.azure.com.
 
-[Figura 4: Select a resource to work with]
-
 5. Com sua conta logada, clique em "view all resources". 
 Na página "selecione um recurso para trabalhar", procure pelo recurso criado.
+
+![9](https://github.com/fanzz293/projeto2_ml-ai900/blob/main/assets/figura%204.jpg?raw=true)
 
 6. Selecione o recurso clicando no box e em seguida, no botão abaixo "selecionar como recurso padrão". 
 Em seguida, feche a aba. 
