@@ -36,7 +36,7 @@ Em seguida, feche a aba.
 
 8. Em sua página inicial, selecione o guia "Análise de Imagens e, em seguida, selecione a seção adicionar legendas às Imagens
 
-[Figura 3.1]
+![Ponto](https://raw.githubusercontent.com/fanzz293/projeto2_ml-ai900/3729b333bc3169abf8358a57273f50c7279ac422/assets/Figura%203.1.jpg)
 
 9. Aperte no botão de checkbox, aceitando o termo de reconhecimento sobre essa demonstração (para mais detalhes leia todo o termo).
 Podes selecionar qualquer uma das imagens para fazer análises e verificar os dados de detecção facial retornados.
@@ -53,7 +53,7 @@ Observe o texto da legenda gerado, a saída será a seguinte:
 
 12. Em seguida, use a mesma imagem para executar legendas densas. Retorne à [homepage do Vision Studio](https://portal.vision.cognitive.azure.com/). Vá em adicionar legendas densas. 
 
-[Figura 3.2]
+![Ps](https://raw.githubusercontent.com/fanzz293/projeto2_ml-ai900/3729b333bc3169abf8358a57273f50c7279ac422/assets/Figura%203.2.jpg)
 
 **Legendas densas**
 
@@ -65,7 +65,7 @@ Observe o texto da legenda gerado, a saída será a seguinte:
 
 1. Vá no [endereço do Vision Studio](https://portal.vision.cognitive.azure.com/) e selecione o bloco Extrair marcas comuns de imagens na guia Análise de imagem.
 
-[Figura 3.3]
+![p](https://raw.githubusercontent.com/fanzz293/projeto2_ml-ai900/3729b333bc3169abf8358a57273f50c7279ac422/assets/Figura%203.3.jpg)
 
 2. Em Escolha o modelo que você deseja experimentar, deixe Produto pré-criado versus modelo de intervalo selecionado. Em Escolha seu idioma, selecione Inglês ou um idioma de sua preferência.
 
@@ -79,7 +79,7 @@ Observe o texto da legenda gerado, a saída será a seguinte:
 
 1.  Vá no [endereço do Vision Studio](https://portal.vision.cognitive.azure.com/) e selecione o bloco Detectar objetos comuns em imagens na guia Análise de imagem.
 
-[Figura 3.4]
+![p](https://raw.githubusercontent.com/fanzz293/projeto2_ml-ai900/3729b333bc3169abf8358a57273f50c7279ac422/assets/Figura%203.4.jpg)
 
 2. Em Escolha o modelo que você deseja experimentar, deixe Produto pré-criado versus modelo de intervalo selecionado.
 
